@@ -2,42 +2,45 @@
 
 # Mahua Mukhopadhyay
 
-Backend Engineer | Applied AI Engineer | AI Automation & Agentic Systems
+**Software Engineer | Applied AI Engineer | AI Automation & Agentic Systems**
 
-MSc Computer Science (AI & Data Science) | University of Southampton
+🎓 MSc Computer Science (Artificial Intelligence & Data Science) | University of Southampton
+
+💼 3+ Years of Professional Experience
 
 ---
 
 ## About Me
 
-I'm a Backend and Applied AI Engineer with experience building production software systems, AI-powered applications, and workflow automation solutions.
+I'm a Software Engineer and Applied AI Engineer with experience building production software systems, AI-powered applications, and workflow automation solutions.
 
 My background combines:
 
 - Backend Engineering
+- Frontend Development
 - Artificial Intelligence
 - Machine Learning
 - Data Engineering
 - AI Automation
 
-I enjoy building intelligent systems that combine software engineering principles with modern AI technologies, whether that's backend services, RAG pipelines, AI-powered applications, or multi-agent automation workflows.
+I enjoy building intelligent systems that combine strong software engineering principles with modern AI technologies, whether that's scalable APIs, AI-powered applications, Retrieval-Augmented Generation (RAG) systems, multi-agent workflows, or automation platforms.
 
-Currently, I'm exploring Agentic AI, AI workflow orchestration, and production-ready AI systems using technologies such as n8n, LLMs, and AI agents.
+Currently, I'm exploring Agentic AI, workflow orchestration, AI evaluation, and production-ready AI systems using technologies such as n8n, LLMs, and AI agents.
 
 ---
 
 ## Professional Experience
 
 ### Associate Consultant II – Developer
-**Atos Syntel (2021–2023)**
+**Atos Syntel (2021 – 2023)**
 
-- Developed enterprise-scale backend solutions handling insurance and claims data
+- Developed and maintained enterprise-scale backend solutions handling insurance and claims data
 - Built Python-based ETL pipelines for ingestion, validation, and transformation
-- Optimised SQL queries and database operations
-- Supported production systems under SLA-driven environments
-- Worked with Azure-based data platforms and analytics solutions
+- Optimised SQL queries and data models for analytics and ML workflows
+- Supported production applications operating under SLA-driven environments
+- Worked with Azure-based data and analytics solutions
 
-**Tech:** Python, SQL, Azure, Microsoft Fabric, Power BI, Git
+**Tech Stack:** Python, SQL, Azure, Microsoft Fabric, Power BI, Git
 
 ---
 
@@ -45,24 +48,25 @@ Currently, I'm exploring Agentic AI, AI workflow orchestration, and production-r
 **SmallCap AI, London (2023)**
 
 - Built LLM-powered CV ranking and query systems
-- Implemented Retrieval-Augmented Generation (RAG) pipelines
+- Designed and implemented RAG pipelines using LangChain and OpenAI
 - Developed FastAPI-based AI services
-- Designed evaluation frameworks for AI-generated outputs
-- Added monitoring, testing, and quality controls for AI applications
+- Built evaluation frameworks for AI-generated outputs
+- Implemented monitoring, logging, and testing for production reliability
 
-**Tech:** Python, FastAPI, OpenAI, LangChain, HuggingFace, PostgreSQL, Azure
+**Tech Stack:** Python, FastAPI, OpenAI, LangChain, Hugging Face, PostgreSQL, Azure
 
 ---
 
-### Freelance Backend Developer
-**Moda Ricca (2024–Present)**
+### Freelance Full-Stack Developer
+**Moda Ricca (2024 – Present)**
 
-- Developed and maintained a production Django application
-- Designed scalable PostgreSQL database architectures
-- Implemented business workflows and backend services
+- Developed and maintained production web applications
+- Built React-based user interfaces and frontend features
+- Designed Django backend services and APIs
+- Created PostgreSQL database architectures and business workflows
 - Improved performance, maintainability, and system reliability
 
-**Tech:** Django, PostgreSQL, Docker, JavaScript
+**Tech Stack:** Django, React.js, PostgreSQL, Docker, JavaScript
 
 ---
 
@@ -71,15 +75,27 @@ Currently, I'm exploring Agentic AI, AI workflow orchestration, and production-r
 ### Backend Engineering
 
 - Python
-- FastAPI
 - Django
 - Django REST Framework
+- FastAPI
 - REST APIs
 - PostgreSQL
 - MySQL
 - Authentication & Authorisation
 - Background Jobs
+- API Design
 - System Design
+
+### Frontend Development
+
+- React.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Responsive UI Development
+- API Integration
+- Component-Based Architecture
 
 ### Artificial Intelligence
 
@@ -87,10 +103,10 @@ Currently, I'm exploring Agentic AI, AI workflow orchestration, and production-r
 - LangChain
 - LLM Applications
 - Prompt Engineering
-- RAG Pipelines
 - Semantic Search
-- AI Evaluation
+- RAG Pipelines
 - Hallucination Mitigation
+- AI Evaluation
 - AI Testing & Quality Assurance
 
 ### Machine Learning
@@ -101,20 +117,23 @@ Currently, I'm exploring Agentic AI, AI workflow orchestration, and production-r
 - Transformers
 - BART
 - T5
-- Model Evaluation
 - Feature Engineering
+- Model Evaluation
+- BLEU
+- METEOR
+- BERTScore
 
 ### AI Automation & Agentic Systems
 
 - n8n
 - AI Agents
 - Multi-Agent Systems
-- Workflow Orchestration
-- AI Automation
+- Agent Orchestration
+- Workflow Automation
+- AI-Powered Business Processes
+- Human-in-the-Loop Systems
 - Tool Calling
-- Human-in-the-Loop Workflows
 - Agent Evaluation
-- Process Automation
 
 ### Data Engineering
 
@@ -122,14 +141,14 @@ Currently, I'm exploring Agentic AI, AI workflow orchestration, and production-r
 - Data Validation
 - Data Transformation
 - SQL Optimisation
-- Analytics Data Workflows
+- Structured & Semi-Structured Data Processing
 
 ### Cloud & DevOps
 
 - Microsoft Azure
 - Docker
 - Git
-- CI/CD
+- CI/CD Concepts
 - Infrastructure-Aware Development
 
 ---
@@ -140,25 +159,26 @@ Currently, I'm exploring Agentic AI, AI workflow orchestration, and production-r
 
 A multi-agent AI workflow built with n8n that automatically:
 
-- Selects content topics
-- Generates LinkedIn posts
-- Performs quality reviews
-- Delivers publication-ready content
+- Selects content topics based on expertise and learning goals
+- Generates LinkedIn posts using specialised AI agents
+- Reviews content quality and authenticity
+- Delivers publication-ready posts via email
 
-**Technologies:** n8n, Ollama, AI Agents, Workflow Automation
+**Tech:** n8n, Ollama, Llama 3.1, AI Agents, Workflow Automation
 
 ---
 
 ### 🎧 AI Customer Support Automation
 
-An end-to-end AI-powered customer support system that:
+An end-to-end customer support automation system that:
 
-- Classifies incoming support emails
-- Generates support tickets
-- Creates AI-generated customer responses
-- Updates ticket status automatically
+- Monitors incoming customer emails
+- Classifies support tickets using AI
+- Assigns priorities automatically
+- Generates professional customer responses
+- Tracks ticket lifecycle status
 
-**Technologies:** n8n, Groq, Gmail, Google Sheets, Workflow Orchestration
+**Tech:** n8n, Groq, Gmail, Google Sheets, Workflow Orchestration
 
 ---
 
@@ -169,7 +189,7 @@ Fine-tuned transformer models for medical text simplification using:
 - BART
 - T5
 
-Evaluated using:
+Evaluated performance using:
 
 - BLEU
 - METEOR
@@ -181,37 +201,74 @@ Achieved approximately 92% benchmark performance.
 
 ### 📄 LLM-Based CV Analysis System
 
-Built an AI-powered CV ranking and information retrieval system using:
+Built an AI-powered CV analysis and ranking platform featuring:
 
-- FastAPI
-- OpenAI
-- LangChain
-- RAG
+- Candidate ranking
+- Information retrieval
+- Structured AI outputs
+- FastAPI backend architecture
+
+**Tech:** FastAPI, OpenAI, LangChain, PostgreSQL
+
+---
+
+### 🛍️ Production Django E-Commerce Platform
+
+Designed and developed backend architecture for a production retail platform including:
+
+- Django backend services
+- PostgreSQL database design
+- Business workflows
+- Performance optimisation
+- Future AI-readiness
 
 ---
 
 ## Current Focus
 
-Currently exploring:
+Currently exploring and building projects around:
 
 - Agentic AI
 - AI Automation
 - Multi-Agent Systems
-- LLM Evaluation
+- AI Workflow Orchestration
 - AI Reliability
-- AI System Design
+- LLM Evaluation
+- RAG Systems
 - Production AI Engineering
+- AI System Design
 
-My long-term goal is to build reliable AI systems that combine strong software engineering foundations with practical machine learning and automation capabilities.
+My goal is to build reliable AI systems that combine strong software engineering foundations with practical machine learning, automation, and intelligent workflows.
+
+---
+
+## GitHub Portfolio Highlights
+
+You'll find projects covering:
+
+- AI Agents
+- Workflow Automation
+- FastAPI Applications
+- Django Projects
+- Machine Learning
+- RAG Pipelines
+- AI Evaluation
+- Customer Support Automation
+- Content Generation Systems
+- Production Software Engineering
 
 ---
 
 ## Let's Connect
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 [Mahua Mukhopadhyay](https://www.linkedin.com/in/mahua-mukhopadhyay-8a8a061a2/)
 
-📫 Email
+📫 **Email**
 
 mahua7980@gmail.com
+
+---
+
+> Building practical AI systems, scalable software, and intelligent automation workflows.
