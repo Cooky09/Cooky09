@@ -1,121 +1,217 @@
-## Hi there 👋
+# Hi there 👋
 
 # Mahua Mukhopadhyay
 
-Backend Engineer | Applied AI Engineer  
-MSc Computer Science (AI & Data Science), University of Southampton  
-3+ Years Professional Experience  
+Backend Engineer | Applied AI Engineer | AI Automation & Agentic Systems
+
+MSc Computer Science (AI & Data Science) | University of Southampton
 
 ---
 
 ## About Me
 
-Backend-focused Software Engineer with production experience building scalable APIs, data pipelines, and AI-powered systems.
+I'm a Backend and Applied AI Engineer with experience building production software systems, AI-powered applications, and workflow automation solutions.
 
-I specialise in:
-- Designing robust backend architectures
-- Building ML & LLM-powered applications
-- Developing production Django & FastAPI services
-- Designing ETL pipelines and optimised SQL systems
-- Deploying systems in Azure-based environments
+My background combines:
+
+- Backend Engineering
+- Artificial Intelligence
+- Machine Learning
+- Data Engineering
+- AI Automation
+
+I enjoy building intelligent systems that combine software engineering principles with modern AI technologies, whether that's backend services, RAG pipelines, AI-powered applications, or multi-agent automation workflows.
+
+Currently, I'm exploring Agentic AI, AI workflow orchestration, and production-ready AI systems using technologies such as n8n, LLMs, and AI agents.
 
 ---
 
 ## Professional Experience
 
-### Associate Consultant II – Developer  
-Atos Syntel (2021–2023)
+### Associate Consultant II – Developer
+**Atos Syntel (2021–2023)**
 
-- Built and maintained enterprise-scale backend systems handling insurance & claims data
-- Developed Python ETL pipelines for ingestion, validation & transformation
-- Optimised SQL queries and data models for analytics and ML workflows
-- Supported production systems under SLA constraints
+- Developed enterprise-scale backend solutions handling insurance and claims data
+- Built Python-based ETL pipelines for ingestion, validation, and transformation
+- Optimised SQL queries and database operations
+- Supported production systems under SLA-driven environments
+- Worked with Azure-based data platforms and analytics solutions
 
-Tech: Python, SQL, Azure, Microsoft Fabric, Power BI, Git
-
----
-
-### AI & Data Analyst Intern (Project Lead)  
-SmallCap AI, London (2023)
-
-- Built LLM-powered CV ranking & query systems
-- Designed RAG pipelines using LangChain & OpenAI
-- Developed FastAPI services integrated into backend platforms
-- Implemented evaluation frameworks for LLM output quality
-- Added logging, monitoring & unit tests for production reliability
-
-Tech: Python, FastAPI, OpenAI, LangChain, HuggingFace, PostgreSQL, Azure
+**Tech:** Python, SQL, Azure, Microsoft Fabric, Power BI, Git
 
 ---
 
-### Freelance Backend Developer  
-Moda Ricca (2024–Present)
+### AI & Data Analyst Intern (Project Lead)
+**SmallCap AI, London (2023)**
 
-- Built production Django web application from scratch
-- Designed PostgreSQL data models & business logic
-- Developed AI-ready backend systems for future ML integration
-- Implemented performance optimisation & system improvements
+- Built LLM-powered CV ranking and query systems
+- Implemented Retrieval-Augmented Generation (RAG) pipelines
+- Developed FastAPI-based AI services
+- Designed evaluation frameworks for AI-generated outputs
+- Added monitoring, testing, and quality controls for AI applications
 
-Tech: Django, PostgreSQL, Docker, JavaScript
+**Tech:** Python, FastAPI, OpenAI, LangChain, HuggingFace, PostgreSQL, Azure
+
+---
+
+### Freelance Backend Developer
+**Moda Ricca (2024–Present)**
+
+- Developed and maintained a production Django application
+- Designed scalable PostgreSQL database architectures
+- Implemented business workflows and backend services
+- Improved performance, maintainability, and system reliability
+
+**Tech:** Django, PostgreSQL, Docker, JavaScript
 
 ---
 
 ## Technical Stack
 
-### Backend
-- Python (Advanced)
-- Django & Django REST Framework
-- FastAPI
-- REST APIs
-- Background Tasks
-- Authentication & Business Logic
-- PostgreSQL / MySQL
-- SQL Optimisation
+### Backend Engineering
 
-### AI / ML
-- LLMs (OpenAI, LangChain)
-- RAG Pipelines
-- Transformers (BART, T5)
-- XGBoost, LightGBM
-- NLP pipelines
+- Python
+- FastAPI
+- Django
+- Django REST Framework
+- REST APIs
+- PostgreSQL
+- MySQL
+- Authentication & Authorisation
+- Background Jobs
+- System Design
+
+### Artificial Intelligence
+
+- OpenAI
+- LangChain
+- LLM Applications
 - Prompt Engineering
-- Evaluation (BLEU, METEOR, BERTScore)
+- RAG Pipelines
+- Semantic Search
+- AI Evaluation
+- Hallucination Mitigation
+- AI Testing & Quality Assurance
+
+### Machine Learning
+
+- XGBoost
+- LightGBM
+- NLP
+- Transformers
+- BART
+- T5
+- Model Evaluation
+- Feature Engineering
+
+### AI Automation & Agentic Systems
+
+- n8n
+- AI Agents
+- Multi-Agent Systems
+- Workflow Orchestration
+- AI Automation
+- Tool Calling
+- Human-in-the-Loop Workflows
+- Agent Evaluation
+- Process Automation
 
 ### Data Engineering
+
 - ETL / ELT Pipelines
-- Feature Engineering
-- Data Validation & Transformation
-- Large-scale structured & semi-structured data
+- Data Validation
+- Data Transformation
+- SQL Optimisation
+- Analytics Data Workflows
 
 ### Cloud & DevOps
-- Microsoft Azure (Production Experience)
+
+- Microsoft Azure
 - Docker
-- CI/CD Pipelines
-- Git Workflows
-- Infrastructure-aware Development
+- Git
+- CI/CD
+- Infrastructure-Aware Development
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### Medical Text Simplification (MSc Thesis)
-Fine-tuned transformer models (BART, T5) for medical text simplification.  
-Evaluated using BLEU, METEOR & BERTScore (~92% benchmark performance).
+### 🤖 LinkedIn Content Creator AI Agent
 
-### LLM-Based CV Analysis System
-Built production-ready CV ranking pipeline with structured prompts & FastAPI backend.
+A multi-agent AI workflow built with n8n that automatically:
 
-### Django Production Web Application
-Designed and deployed backend architecture for a live retail platform.
+- Selects content topics
+- Generates LinkedIn posts
+- Performs quality reviews
+- Delivers publication-ready content
+
+**Technologies:** n8n, Ollama, AI Agents, Workflow Automation
+
+---
+
+### 🎧 AI Customer Support Automation
+
+An end-to-end AI-powered customer support system that:
+
+- Classifies incoming support emails
+- Generates support tickets
+- Creates AI-generated customer responses
+- Updates ticket status automatically
+
+**Technologies:** n8n, Groq, Gmail, Google Sheets, Workflow Orchestration
+
+---
+
+### 🧠 Medical Text Simplification (MSc Thesis)
+
+Fine-tuned transformer models for medical text simplification using:
+
+- BART
+- T5
+
+Evaluated using:
+
+- BLEU
+- METEOR
+- BERTScore
+
+Achieved approximately 92% benchmark performance.
+
+---
+
+### 📄 LLM-Based CV Analysis System
+
+Built an AI-powered CV ranking and information retrieval system using:
+
+- FastAPI
+- OpenAI
+- LangChain
+- RAG
 
 ---
 
 ## Current Focus
 
-Building production-grade backend systems that integrate AI into real-world workflows.
+Currently exploring:
+
+- Agentic AI
+- AI Automation
+- Multi-Agent Systems
+- LLM Evaluation
+- AI Reliability
+- AI System Design
+- Production AI Engineering
+
+My long-term goal is to build reliable AI systems that combine strong software engineering foundations with practical machine learning and automation capabilities.
 
 ---
 
-📫 Contact  
-LinkedIn: https://www.linkedin.com/in/mahua-mukhopadhyay-8a8a061a2/  
-Email: mahua7980@gmail.com
+## Let's Connect
+
+💼 LinkedIn
+
+[Mahua Mukhopadhyay](https://www.linkedin.com/in/mahua-mukhopadhyay-8a8a061a2/)
+
+📫 Email
+
+mahua7980@gmail.com
