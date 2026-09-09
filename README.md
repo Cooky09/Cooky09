@@ -47,7 +47,7 @@ Currently, I'm exploring Agentic AI, workflow orchestration, AI evaluation, and 
 ---
 
 ## 💻 Freelance Full-Stack Developer
-**Moda Ricca** | *Aug 2025 – Jan 2026*
+**Moda Ricca** | *Jun 2025 – Jan 2026*
 
 - Developed and maintained production web applications using React.js and Django.
 - Built reusable React components and responsive frontend features.
@@ -61,7 +61,7 @@ Currently, I'm exploring Agentic AI, workflow orchestration, AI evaluation, and 
 ---
 
 ## 🤖 AI & Data Analyst Intern / Project Lead
-**SmallCap AI, London** | *Apr 2024 – Dec 2024*
+**SmallCap AI, London** | *Jul 2024 – Nov 2024*
 
 - Built LLM-powered CV analysis and ranking systems.
 - Designed and implemented RAG pipelines using LangChain and OpenAI.
