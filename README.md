@@ -29,44 +29,60 @@ Currently, I'm exploring Agentic AI, workflow orchestration, AI evaluation, and 
 
 ---
 
-## Professional Experience
+# Professional Experience
 
-### Associate Consultant II – Developer
-**Atos Syntel (2021 – 2023)**
+## 🧪 Quality Assurance Tester
+**Bytecenture** | *Aug 2025 – Present*
 
-- Developed and maintained enterprise-scale backend solutions handling insurance and claims data
-- Built Python-based ETL pipelines for ingestion, validation, and transformation
-- Optimised SQL queries and data models for analytics and ML workflows
-- Supported production applications operating under SLA-driven environments
-- Worked with Azure-based data and analytics solutions
+- Perform functional, regression, integration, smoke, and UAT testing across multiple applications.
+- Design and execute test cases based on functional and business requirements.
+- Identify, document, and report defects, and validate fixes.
+- Test application workflows from both technical and end-user perspectives.
+- Test AI and LLM-powered chat applications, evaluating response quality, functionality, consistency, and user experience.
+- Apply real-world scenarios to identify AI quality issues, unexpected behaviour, and incorrect outputs.
+- Collaborate with development teams to improve application quality and reliability.
 
-**Tech Stack:** Python, SQL, Azure, Microsoft Fabric, Power BI, Git
-
----
-
-### AI & Data Analyst Intern (Project Lead)
-**SmallCap AI, London (2023)**
-
-- Built LLM-powered CV ranking and query systems
-- Designed and implemented RAG pipelines using LangChain and OpenAI
-- Developed FastAPI-based AI services
-- Built evaluation frameworks for AI-generated outputs
-- Implemented monitoring, logging, and testing for production reliability
-
-**Tech Stack:** Python, FastAPI, OpenAI, LangChain, Hugging Face, PostgreSQL, Azure
+**Focus:** QA · UAT · Functional Testing · Regression Testing · Test Case Design · Defect Reporting · AI/LLM Testing
 
 ---
 
-### Freelance Full-Stack Developer
-**Moda Ricca (2024 – Present)**
+## 💻 Freelance Full-Stack Developer
+**Moda Ricca** | *Aug 2025 – Jan 2026*
 
-- Developed and maintained production web applications
-- Built React-based user interfaces and frontend features
-- Designed Django backend services and APIs
-- Created PostgreSQL database architectures and business workflows
-- Improved performance, maintainability, and system reliability
+- Developed and maintained production web applications using React.js and Django.
+- Built reusable React components and responsive frontend features.
+- Integrated frontend applications with backend APIs.
+- Developed Django backend functionality and worked with PostgreSQL.
+- Implemented business workflows and resolved frontend and backend issues.
+- Contributed across development, testing, and production support.
 
-**Tech Stack:** Django, React.js, PostgreSQL, Docker, JavaScript
+**Tech Stack:** `React.js` `JavaScript` `Django` `PostgreSQL` `Docker` `REST APIs`
+
+---
+
+## 🤖 AI & Data Analyst Intern / Project Lead
+**SmallCap AI, London** | *Apr 2024 – Dec 2024*
+
+- Built LLM-powered CV analysis and ranking systems.
+- Designed and implemented RAG pipelines using LangChain and OpenAI.
+- Developed FastAPI-based AI services.
+- Built approaches for evaluating AI-generated outputs.
+- Implemented testing, monitoring, and logging to improve application reliability.
+
+**Tech Stack:** `Python` `FastAPI` `OpenAI` `LangChain` `Hugging Face` `PostgreSQL` `Azure`
+
+---
+
+## 👨‍💻 Associate Consultant II – Developer
+**Atos Syntel** | *Mar 2021 – Jul 2023*
+
+- Developed and maintained enterprise backend solutions supporting insurance and claims data.
+- Built Python-based ETL pipelines for data ingestion, validation, and transformation.
+- Optimised SQL queries and data models for analytics and machine learning workflows.
+- Supported production applications within SLA-driven environments.
+- Worked with Azure-based data and analytics solutions.
+
+**Tech Stack:** `Python` `SQL` `Azure` `Microsoft Fabric` `Power BI` `Git`
 
 ---
 
