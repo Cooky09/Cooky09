@@ -267,30 +267,6 @@ An end-to-end MLOps platform demonstrating how a machine learning model can move
 * Azure deployment architecture
 * Infrastructure as Code using Bicep
 
-### Architecture
-
-```text
-PyTorch
-   ↓
-Training
-   ↓
-MLflow Tracking
-   ↓
-Model Registry
-   ↓
-Model Version / Alias
-   ↓
-FastAPI
-   ↓
-Docker
-   ↓
-CI/CD
-   ↓
-Azure
-```
-
-🔗 **[View Project →](https://github.com/Cooky09/mlops-model-serving-platform)**
-
 ---
 
 ## 🤖 LinkedIn Content Creator AI Agent
