@@ -78,8 +78,6 @@ An end-to-end MLOps platform demonstrating the journey from model training to pr
 * CI/CD
 * Azure deployment architecture
 
-👉 **[View the MLOps Model Serving Platform](https://github.com/Cooky09/mlops-model-serving-platform)**
-
 ---
 
 ### 🤖 LinkedIn Content Creator AI Agent
