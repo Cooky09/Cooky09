@@ -1,290 +1,246 @@
-# Hi there 👋
+# Hi, I'm Mahua Mukhopadhyay 👋
 
-# Mahua Mukhopadhyay
+### Software Engineer · Applied AI Engineer · AI Automation & Agentic Systems
 
-**Software Engineer | Applied AI Engineer | AI Automation & Agentic Systems**
+I’m a Software Engineer focused on building **backend systems, applied AI solutions, LLM-powered applications, and automation workflows**.
 
-🎓 MSc Computer Science (Artificial Intelligence & Data Science) | University of Southampton
-
-💼 3+ Years of Professional Experience
+I enjoy turning AI and software engineering concepts into practical, maintainable products — from API development and RAG systems to MLOps pipelines and AI agents.
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a Software Engineer and Applied AI Engineer with experience building production software systems, AI-powered applications, and workflow automation solutions.
-
-My background combines:
-
-- Backend Engineering
-- Frontend Development
-- Artificial Intelligence
-- Machine Learning
-- Data Engineering
-- AI Automation
-
-I enjoy building intelligent systems that combine strong software engineering principles with modern AI technologies, whether that's scalable APIs, AI-powered applications, Retrieval-Augmented Generation (RAG) systems, multi-agent workflows, or automation platforms.
-
-Currently, I'm exploring Agentic AI, workflow orchestration, AI evaluation, and production-ready AI systems using technologies such as n8n, LLMs, and AI agents.
+* 🎓 MSc graduate from the **University of Southampton**
+* 💻 3+ years of software engineering experience
+* 🐍 Strong focus on **Python backend development**
+* 🤖 Building applications with **LLMs, RAG, NLP, and AI agents**
+* ☁️ Interested in **cloud engineering, MLOps, and production AI systems**
+* 🔧 Experienced with **Django, FastAPI, REST APIs, PostgreSQL, Docker, and CI/CD**
+* 🧪 Interested in software quality, testing, evaluation, and reliable AI systems
+* 🚀 Currently building portfolio projects around **AI engineering and MLOps**
 
 ---
 
-# Professional Experience
+## 🛠️ What I Build
 
-## 🧪 Quality Assurance Tester
-**Bytecenture** | *Aug 2025 – Present*
+### 🤖 Applied AI & LLM Applications
 
-- Perform functional, regression, integration, smoke, and UAT testing across multiple applications.
-- Design and execute test cases based on functional and business requirements.
-- Identify, document, and report defects, and validate fixes.
-- Test application workflows from both technical and end-user perspectives.
-- Test AI and LLM-powered chat applications, evaluating response quality, functionality, consistency, and user experience.
-- Apply real-world scenarios to identify AI quality issues, unexpected behaviour, and incorrect outputs.
-- Collaborate with development teams to improve application quality and reliability.
+* LLM-powered applications
+* Retrieval-Augmented Generation (RAG)
+* Prompt engineering
+* NLP and transformer-based applications
+* AI evaluation workflows
+* AI agents and workflow automation
+* Customer-support automation
+* AI-assisted content generation
 
-**Focus:** QA · UAT · Functional Testing · Regression Testing · Test Case Design · Defect Reporting · AI/LLM Testing
+### ⚙️ Backend Engineering
 
----
+* REST APIs
+* FastAPI services
+* Django applications
+* Django REST Framework
+* Authentication and API integrations
+* PostgreSQL / MySQL
+* Backend architecture and service development
 
-## 💻 Freelance Full-Stack Developer
-**Moda Ricca** | *Jun 2025 – Jan 2026*
+### ☁️ Cloud & MLOps
 
-- Developed and maintained production web applications using React.js and Django.
-- Built reusable React components and responsive frontend features.
-- Integrated frontend applications with backend APIs.
-- Developed Django backend functionality and worked with PostgreSQL.
-- Implemented business workflows and resolved frontend and backend issues.
-- Contributed across development, testing, and production support.
-
-**Tech Stack:** `React.js` `JavaScript` `Django` `PostgreSQL` `Docker` `REST APIs`
-
----
-
-## 🤖 AI & Data Analyst Intern / Project Lead
-**SmallCap AI, London** | *Jul 2024 – Nov 2024*
-
-- Built LLM-powered CV analysis and ranking systems.
-- Designed and implemented RAG pipelines using LangChain and OpenAI.
-- Developed FastAPI-based AI services.
-- Built approaches for evaluating AI-generated outputs.
-- Implemented testing, monitoring, and logging to improve application reliability.
-
-**Tech Stack:** `Python` `FastAPI` `OpenAI` `LangChain` `Hugging Face` `PostgreSQL` `Azure`
+* Docker and containerized applications
+* MLflow experiment tracking
+* Model registries and model serving
+* CI/CD pipelines
+* GitHub Actions
+* Azure
+* Infrastructure as Code
+* Production-oriented ML APIs
 
 ---
 
-## 👨‍💻 Associate Consultant II – Developer
-**Atos Syntel** | *Mar 2021 – Jul 2023*
+## 🚀 Featured Projects
 
-- Developed and maintained enterprise backend solutions supporting insurance and claims data.
-- Built Python-based ETL pipelines for data ingestion, validation, and transformation.
-- Optimised SQL queries and data models for analytics and machine learning workflows.
-- Supported production applications within SLA-driven environments.
-- Worked with Azure-based data and analytics solutions.
+### 🧠 MLOps Model Serving Platform
 
-**Tech Stack:** `Python` `SQL` `Azure` `Microsoft Fabric` `Power BI` `Git`
+**PyTorch · MLflow · FastAPI · Docker · GitHub Actions · Azure**
 
----
+An end-to-end MLOps platform demonstrating the journey from model training to production-style inference.
 
-## Technical Stack
+**Highlights:**
 
-### Backend Engineering
+* PyTorch model training
+* MLflow experiment tracking
+* Model artifact management
+* MLflow Model Registry
+* Model versioning and aliases
+* FastAPI inference service
+* Docker containerization
+* Automated testing
+* CI/CD
+* Azure deployment architecture
 
-- Python
-- Django
-- Django REST Framework
-- FastAPI
-- REST APIs
-- PostgreSQL
-- MySQL
-- Authentication & Authorisation
-- Background Jobs
-- API Design
-- System Design
-
-### Frontend Development
-
-- React.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Responsive UI Development
-- API Integration
-- Component-Based Architecture
-
-### Artificial Intelligence
-
-- OpenAI
-- LangChain
-- LLM Applications
-- Prompt Engineering
-- Semantic Search
-- RAG Pipelines
-- Hallucination Mitigation
-- AI Evaluation
-- AI Testing & Quality Assurance
-
-### Machine Learning
-
-- XGBoost
-- LightGBM
-- NLP
-- Transformers
-- BART
-- T5
-- Feature Engineering
-- Model Evaluation
-- BLEU
-- METEOR
-- BERTScore
-
-### AI Automation & Agentic Systems
-
-- n8n
-- AI Agents
-- Multi-Agent Systems
-- Agent Orchestration
-- Workflow Automation
-- AI-Powered Business Processes
-- Human-in-the-Loop Systems
-- Tool Calling
-- Agent Evaluation
-
-### Data Engineering
-
-- ETL / ELT Pipelines
-- Data Validation
-- Data Transformation
-- SQL Optimisation
-- Structured & Semi-Structured Data Processing
-
-### Cloud & DevOps
-
-- Microsoft Azure
-- Docker
-- Git
-- CI/CD Concepts
-- Infrastructure-Aware Development
+👉 **[View the MLOps Model Serving Platform](https://github.com/Cooky09/mlops-model-serving-platform)**
 
 ---
-
-## Featured Projects
 
 ### 🤖 LinkedIn Content Creator AI Agent
 
-A multi-agent AI workflow built with n8n that automatically:
+An AI-powered workflow for generating LinkedIn content using LLMs and automation.
 
-- Selects content topics based on expertise and learning goals
-- Generates LinkedIn posts using specialised AI agents
-- Reviews content quality and authenticity
-- Delivers publication-ready posts via email
+**Focus areas:**
 
-**Tech:** n8n, Ollama, Llama 3.1, AI Agents, Workflow Automation
-
----
-
-### 🎧 AI Customer Support Automation
-
-An end-to-end customer support automation system that:
-
-- Monitors incoming customer emails
-- Classifies support tickets using AI
-- Assigns priorities automatically
-- Generates professional customer responses
-- Tracks ticket lifecycle status
-
-**Tech:** n8n, Groq, Gmail, Google Sheets, Workflow Orchestration
+* LLM integration
+* Prompt engineering
+* AI agents
+* Workflow automation
+* Content generation
 
 ---
 
-### 🧠 Medical Text Simplification (MSc Thesis)
+### 💬 AI Customer Support Automation
 
-Fine-tuned transformer models for medical text simplification using:
+An AI-driven customer-support workflow designed to automate common support interactions.
 
-- BART
-- T5
+**Focus areas:**
 
-Evaluated performance using:
-
-- BLEU
-- METEOR
-- BERTScore
-
-Achieved approximately 92% benchmark performance.
+* LLM-powered responses
+* Workflow automation
+* AI agents
+* Customer-support workflows
+* Automation pipelines
 
 ---
 
-### 📄 LLM-Based CV Analysis System
+### 🏥 Medical Text Simplification
 
-Built an AI-powered CV analysis and ranking platform featuring:
+An NLP-focused project for transforming complex medical language into simpler, more accessible text.
 
-- Candidate ranking
-- Information retrieval
-- Structured AI outputs
-- FastAPI backend architecture
+**Focus areas:**
 
-**Tech:** FastAPI, OpenAI, LangChain, PostgreSQL
-
----
-
-### 🛍️ Production Django E-Commerce Platform
-
-Designed and developed backend architecture for a production retail platform including:
-
-- Django backend services
-- PostgreSQL database design
-- Business workflows
-- Performance optimisation
-- Future AI-readiness
+* NLP
+* Transformers
+* Text processing
+* LLM-assisted language simplification
+* AI evaluation
 
 ---
 
-## Current Focus
+### 📄 LLM-Based CV Analysis
 
-Currently exploring and building projects around:
+An AI application for analysing CV content using large language models.
 
-- Agentic AI
-- AI Automation
-- Multi-Agent Systems
-- AI Workflow Orchestration
-- AI Reliability
-- LLM Evaluation
-- RAG Systems
-- Production AI Engineering
-- AI System Design
+**Focus areas:**
 
-My goal is to build reliable AI systems that combine strong software engineering foundations with practical machine learning, automation, and intelligent workflows.
+* LLMs
+* Prompt engineering
+* Structured extraction
+* CV analysis
+* AI-assisted evaluation
 
 ---
 
-## GitHub Portfolio Highlights
+## 💻 Technology Stack
 
-You'll find projects covering:
+### Languages
 
-- AI Agents
-- Workflow Automation
-- FastAPI Applications
-- Django Projects
-- Machine Learning
-- RAG Pipelines
-- AI Evaluation
-- Customer Support Automation
-- Content Generation Systems
-- Production Software Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat\&logo=mlflow\&logoColor=white)
+
+* LLMs
+* RAG
+* NLP
+* Transformers
+* Prompt Engineering
+* AI Agents
+* AI Evaluation
+* Workflow Automation
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+
+* Docker
+* CI/CD
+* GitHub Actions
+* Azure
+* Infrastructure as Code
+* MLOps
 
 ---
 
-## Let's Connect
+## 🔬 Current Focus
 
-💼 **LinkedIn**
+I'm currently expanding my portfolio around:
 
-[Mahua Mukhopadhyay](https://www.linkedin.com/in/mahua-mukhopadhyay-8a8a061a2/)
+```text
+Applied AI
+    ↓
+LLM Applications
+    ↓
+AI Agents & Automation
+    ↓
+Backend APIs
+    ↓
+MLOps
+    ↓
+Cloud Deployment
+```
 
-📫 **Email**
-
-mahua7980@gmail.com
+My goal is to build systems that combine **strong software engineering practices with practical AI capabilities**.
 
 ---
 
-> Building practical AI systems, scalable software, and intelligent automation workflows.
+## 📊 GitHub
+
+I use GitHub to document projects covering:
+
+* AI engineering
+* Backend development
+* MLOps
+* Cloud deployment
+* Automation
+* Software testing
+* Experimental AI applications
+
+More projects and technical experiments will be added as I continue building.
+
+---
+
+## 🎓 Education
+
+**University of Southampton**
+
+MSc
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities involving:
+
+* Software Engineering
+* Backend Engineering
+* Applied AI
+* AI Engineering
+* MLOps
+* Cloud Engineering
+* LLM Applications
+* AI Automation
+
+Thanks for visiting my profile! 🚀
