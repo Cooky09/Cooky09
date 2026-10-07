@@ -1,549 +1,212 @@
-# Hi there 👋 I'm Mahua Mukhopadhyay
+# Hi, I'm Mahua 👋
 
-### Software Engineer · Applied AI Engineer · AI Automation & Agentic Systems
+### Backend Engineer · Applied AI Engineer · MLOps
 
-🎓 **MSc Computer Science — Artificial Intelligence & Data Science** | University of Southampton
-💼 **3+ years of professional experience** across software engineering, AI, data, and QA
-🤖 Building **AI applications, agentic workflows, backend systems, and MLOps platforms**
+I build **backend systems, AI applications, and production-oriented ML infrastructure** with Python.
 
----
+My work sits at the intersection of **software engineering and AI**, with experience across:
 
-## 👩‍💻 About Me
+- Backend & REST API development
+- LLM and RAG applications
+- AI agents & workflow automation
+- Machine learning & NLP
+- MLOps & model serving
+- Docker & CI/CD
+- Cloud & data engineering
+- Software & AI quality engineering
 
-I'm a Software Engineer and Applied AI Engineer with experience building **production software systems, AI-powered applications, data pipelines, automation workflows, and machine learning solutions**.
-
-My background combines:
-
-* Backend & API Engineering
-* Full-Stack Development
-* Artificial Intelligence & LLM Applications
-* Machine Learning & NLP
-* AI Automation & Agentic Systems
-* Data Engineering
-* MLOps & Model Serving
-* Cloud & DevOps
-* Software Testing & AI Quality Assurance
-
-I enjoy working at the intersection of **software engineering and AI**, building systems that move beyond experimentation toward reliable, maintainable applications.
-
-My recent work has expanded from building AI applications and RAG systems into **production-oriented MLOps**, including model training, experiment tracking, model registries, containerized model serving, CI/CD, and cloud deployment.
+🎓 **MSc Computer Science — Artificial Intelligence & Data Science**, University of Southampton  
+💼 **3+ years of professional experience** across software engineering, AI, data, and QA  
+📍 United Kingdom
 
 ---
 
-# 🧠 What I've Learned & Built
+## 🛠️ Technical Focus
 
-Over the course of my studies, professional work, and personal projects, I've developed experience across the following areas.
+**Languages**  
+`Python` `JavaScript` `TypeScript` `SQL`
 
-### Software Engineering
+**Backend**  
+`FastAPI` `Django` `Django REST Framework` `REST APIs`
 
-* Python application development
-* Object-oriented programming
-* Backend architecture
-* REST API design
-* Django & Django REST Framework
-* FastAPI
-* Authentication & authorisation
-* API validation
-* Database design
-* PostgreSQL & MySQL
-* Background processing
-* Application debugging
-* Production support
-* Git & version control
+**AI / ML**  
+`LLMs` `RAG` `LangChain` `PyTorch` `Transformers` `NLP` `XGBoost` `LightGBM`
 
-### Artificial Intelligence
+**AI Engineering**  
+`Prompt Engineering` `Semantic Search` `AI Evaluation` `AI Agents` `Tool Calling` `n8n`
 
-* Large Language Models
-* OpenAI APIs
-* LangChain
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* Semantic search
-* Structured LLM outputs
-* Tool calling
-* AI agents
-* Multi-agent workflows
-* AI evaluation
-* Hallucination mitigation
-* AI testing and quality assessment
+**MLOps / DevOps**  
+`MLflow` `Docker` `Docker Compose` `GitHub Actions` `CI/CD`
 
-### Machine Learning
+**Cloud / Data**  
+`Azure` `Bicep` `PostgreSQL` `MySQL` `ETL`
 
-* PyTorch
-* XGBoost
-* LightGBM
-* NLP
-* Transformer models
-* BART
-* T5
-* Feature engineering
-* Model training
-* Model evaluation
-* Classification workflows
-* Text processing
-* BLEU
-* METEOR
-* BERTScore
-
-### MLOps
-
-Recently expanding my machine learning engineering skills into the complete model lifecycle:
-
-```text
-Data
-  ↓
-Model Training
-  ↓
-Experiment Tracking
-  ↓
-Model Artifacts
-  ↓
-Model Registry
-  ↓
-Model Versioning
-  ↓
-Model Promotion
-  ↓
-API Model Serving
-  ↓
-Docker
-  ↓
-CI/CD
-  ↓
-Cloud Deployment
-```
-
-Hands-on experience with:
-
-* MLflow
-* MLflow Experiment Tracking
-* MLflow Model Registry
-* Model versions
-* Model aliases
-* Model signatures
-* Model artifact management
-* PyTorch model serving
-* FastAPI inference APIs
-* Dockerised ML services
-* Docker Compose
-* Automated testing
-* CI/CD pipelines
-* Azure deployment architecture
-* Infrastructure as Code with Bicep
-
-### AI Automation & Agentic Systems
-
-* n8n
-* AI agents
-* Multi-agent systems
-* Agent orchestration
-* Workflow automation
-* Tool calling
-* Human-in-the-loop workflows
-* AI-powered business processes
-* Automated content generation
-* AI customer-support workflows
-* Agent evaluation
-
-### Data Engineering
-
-* ETL / ELT pipelines
-* Data ingestion
-* Data validation
-* Data transformation
-* SQL optimisation
-* Structured data processing
-* Semi-structured data processing
-* Data workflows for analytics and machine learning
-
-### Quality Engineering
-
-My experience also includes testing both conventional software and AI-powered applications.
-
-* Functional testing
-* Regression testing
-* Integration testing
-* Smoke testing
-* UAT
-* Test case design
-* Defect reporting
-* API testing
-* End-to-end workflow testing
-* AI/LLM response evaluation
-* AI quality assessment
-* Pytest
-* Code quality with Ruff
+**Testing & Quality**  
+`Pytest` `Regression Testing` `API Testing` `UAT` `AI/LLM Testing`
 
 ---
 
-# 💼 Professional Experience
+## 🚀 Featured Projects
 
-## 🧪 Quality Assurance Tester
-
-**Bytecenture** | *Aug 2025 – Present*
-
-* Perform functional, regression, integration, smoke, and UAT testing across multiple applications.
-* Design and execute test cases based on functional and business requirements.
-* Identify, document, and report defects and validate fixes.
-* Test application workflows from both technical and end-user perspectives.
-* Test AI and LLM-powered chat applications.
-* Evaluate AI responses for quality, consistency, functionality, and user experience.
-* Apply real-world scenarios to identify unexpected AI behaviour and incorrect outputs.
-* Collaborate with development teams to improve application quality and reliability.
-
-**Focus:** `QA` `UAT` `Functional Testing` `Regression Testing` `API Testing` `AI/LLM Testing`
-
----
-
-## 💻 Freelance Full-Stack Developer
-
-**Moda Ricca** | *Jun 2025 – Jan 2026*
-
-* Developed and maintained production web applications using React.js and Django.
-* Built reusable React components and responsive frontend features.
-* Integrated frontend applications with backend APIs.
-* Developed Django backend functionality using PostgreSQL.
-* Implemented business workflows and resolved frontend and backend issues.
-* Contributed across development, testing, and production support.
-
-**Tech:** `React.js` `JavaScript` `Django` `PostgreSQL` `Docker` `REST APIs`
-
----
-
-## 🤖 AI & Data Analyst Intern / Project Lead
-
-**SmallCap AI, London** | *Jul 2024 – Nov 2024*
-
-* Built LLM-powered CV analysis and ranking systems.
-* Designed and implemented RAG pipelines using LangChain and OpenAI.
-* Developed FastAPI-based AI services.
-* Built approaches for evaluating AI-generated outputs.
-* Implemented testing, monitoring, and logging to improve application reliability.
-
-**Tech:** `Python` `FastAPI` `OpenAI` `LangChain` `Hugging Face` `PostgreSQL` `Azure`
-
----
-
-## 👨‍💻 Associate Consultant II – Developer
-
-**Atos Syntel** | *Mar 2021 – Jul 2023*
-
-* Developed and maintained enterprise backend solutions supporting insurance and claims data.
-* Built Python-based ETL pipelines for data ingestion, validation, and transformation.
-* Optimised SQL queries and data models for analytics and machine learning workflows.
-* Supported production applications within SLA-driven environments.
-* Worked with Azure-based data and analytics solutions.
-
-**Tech:** `Python` `SQL` `Azure` `Microsoft Fabric` `Power BI` `Git`
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 MLOps Model Serving Platform
+### 🧠 MLOps Model Serving Platform
 
 **PyTorch · MLflow · FastAPI · Docker · GitHub Actions · Azure**
 
-An end-to-end MLOps platform demonstrating how a machine learning model can move from training to production-style inference.
+End-to-end ML engineering project demonstrating the transition from model training to production-style inference.
 
-### What I implemented
-
-* PyTorch model training
-* Deterministic dataset generation
-* MLflow experiment tracking
-* Parameter and metric logging
-* Model artifact management
-* MLflow Model Registry
-* Model versioning
-* Model aliases
-* Model signatures
-* FastAPI inference service
-* Pydantic request validation
-* Docker containerisation
-* Docker Compose orchestration
-* Automated testing
-* Ruff code quality checks
-* GitHub Actions CI/CD
-* Azure deployment architecture
-* Infrastructure as Code using Bicep
+- PyTorch model training and evaluation
+- MLflow experiment tracking and model registry
+- Model versioning and promotion
+- FastAPI inference service
+- Dockerised model serving
+- Automated testing and CI/CD
+- Azure deployment architecture
+- Infrastructure as Code with Bicep
 
 ---
 
-## 🤖 LinkedIn Content Creator AI Agent
+### 🔎 RAG Evaluation & Observability Lab
 
-A multi-agent AI workflow built using n8n to automate LinkedIn content creation.
+**Python · FastAPI · PyTorch · Ollama · Docker · Prometheus · n8n · GitHub Actions**
 
-The system:
+Local platform for evaluating RAG quality while measuring inference performance and system behaviour.
 
-* Selects content topics based on expertise and learning goals
-* Generates posts using specialised AI agents
-* Reviews generated content
-* Improves content quality and authenticity
-* Delivers publication-ready content via email
-
-**Tech:** `n8n` `Ollama` `Llama 3.1` `AI Agents` `Workflow Automation`
-
----
-
-## 🎧 AI Customer Support Automation
-
-An end-to-end AI workflow for automating customer-support operations.
-
-The system:
-
-* Monitors incoming customer emails
-* Classifies support requests
-* Assigns priorities
-* Generates professional responses
-* Tracks ticket lifecycle status
-
-**Tech:** `n8n` `Groq` `Gmail` `Google Sheets` `AI Automation`
+- Semantic retrieval and local LLM inference
+- Retrieval and answer-quality evaluation
+- Automated regression gates
+- Batch and precision benchmarking
+- Structured logging and application metrics
+- Prometheus metrics endpoint
+- n8n evaluation automation
+- Dockerised deployment
+- Automated test suite and GitHub Actions CI
 
 ---
 
-## 🧠 Medical Text Simplification — MSc Thesis
+### 🤖 LinkedIn Content Creator AI Agent
 
-A research project exploring transformer-based approaches to medical text simplification.
+**n8n · Ollama · Llama · AI Agents**
 
-Models included:
+Multi-agent workflow for automated content creation.
 
-* BART
-* T5
-
-Evaluation included:
-
-* BLEU
-* METEOR
-* BERTScore
-
-The project developed my understanding of **NLP, transformer architectures, fine-tuning, evaluation metrics, and research-oriented machine learning workflows**.
+- Topic selection
+- AI content generation
+- Content review and refinement
+- Quality checks
+- Email delivery of publication-ready content
 
 ---
 
-## 📄 LLM-Based CV Analysis System
+### 🎧 AI Customer Support Automation
 
-An AI-powered CV analysis and ranking platform.
+**n8n · Groq · Gmail · Google Sheets**
 
-### Capabilities
+AI-powered workflow for automating customer-support operations.
 
-* Candidate information extraction
-* CV analysis
-* Candidate ranking
-* Information retrieval
-* Structured AI outputs
-* API-based backend architecture
-
-**Tech:** `FastAPI` `OpenAI` `LangChain` `PostgreSQL`
+- Incoming email monitoring
+- Request classification
+- Priority assignment
+- Response generation
+- Ticket lifecycle tracking
 
 ---
 
-## 🛍️ Production Django E-Commerce Platform
+### 🧠 Medical Text Simplification — MSc Thesis
 
-A production-oriented retail platform involving:
+**BART · T5 · PEGASUS · NLP**
 
-* Django backend development
-* PostgreSQL database design
-* REST APIs
-* Business workflows
-* Performance optimisation
-* Frontend/backend integration
-* Production support
+Research project exploring transformer-based approaches to medical text simplification.
 
-The project also provides a foundation for integrating future AI-powered capabilities.
+- Text preprocessing
+- Transformer fine-tuning
+- Model evaluation
+- BLEU, METEOR and BERTScore
+- Readability analysis
 
 ---
 
-# ☁️ Cloud & DevOps
+### 📄 LLM-Based CV Analysis System
 
-My recent projects have expanded my experience from application development into **deployment and operational engineering**.
+**FastAPI · OpenAI · LangChain · PostgreSQL**
 
-### Cloud
+AI-powered CV analysis and candidate-ranking system.
 
-* Microsoft Azure
-* Azure-based data and analytics
-* Azure deployment architecture
-
-### Containers
-
-* Docker
-* Docker Compose
-* Containerised APIs
-* Containerised MLflow services
-* Production-oriented Docker images
-
-### CI/CD
-
-* GitHub Actions
-* Automated testing
-* Automated linting
-* Build validation
-* Deployment workflows
-
-### Infrastructure
-
-* Azure Bicep
-* Infrastructure as Code
-* Environment-based configuration
-* Cloud deployment architecture
+- CV information extraction
+- Job-description analysis
+- Candidate ranking
+- Semantic similarity
+- Structured AI outputs
+- API-based backend
 
 ---
 
-# 🛠️ Technology Stack
+## 💼 Experience
 
-### Languages
+### Quality Assurance Tester — Bytecenture
+**Aug 2025 – Present**
 
-`Python` `JavaScript` `TypeScript` `SQL`
+- Perform functional, regression, integration, smoke and UAT testing.
+- Design and execute test cases from functional and business requirements.
+- Test AI and LLM-powered applications.
+- Evaluate AI outputs for quality, consistency and unexpected behaviour.
+- Collaborate with development teams to improve application reliability.
 
-### Backend
+### Freelance Full-Stack Developer — Moda Ricca
+**Jun 2025 – Jan 2026**
 
-`Django` `Django REST Framework` `FastAPI` `REST APIs`
+- Developed production web applications using React and Django.
+- Built reusable frontend components and backend functionality.
+- Integrated React applications with REST APIs.
+- Developed PostgreSQL-backed Django services.
+- Supported development, testing and production issues.
 
-### Databases
+### AI & Data Analyst Intern / Project Lead — SmallCap AI
+**Jul 2024 – Nov 2024**
 
-`PostgreSQL` `MySQL`
+- Built LLM-powered CV analysis and ranking systems.
+- Developed RAG pipelines using LangChain and OpenAI.
+- Built FastAPI-based AI services.
+- Developed approaches for evaluating AI-generated outputs.
+- Implemented testing, monitoring and logging.
 
-### AI / LLM
+### Associate Consultant II – Developer — Atos Syntel
+**Mar 2021 – Jul 2023**
 
-`OpenAI` `LangChain` `LLMs` `RAG` `NLP` `Transformers` `Prompt Engineering`
-
-### Machine Learning
-
-`PyTorch` `XGBoost` `LightGBM` `BART` `T5`
-
-### MLOps
-
-`MLflow` `Model Registry` `Model Serving` `Experiment Tracking` `Model Versioning`
-
-### Automation
-
-`n8n` `AI Agents` `Multi-Agent Systems` `Workflow Automation`
-
-### DevOps / Cloud
-
-`Docker` `Docker Compose` `GitHub Actions` `Azure` `Bicep` `Git`
-
-### Testing & Quality
-
-`Pytest` `Ruff` `UAT` `Regression Testing` `API Testing` `AI Evaluation`
-
----
-
-# 📈 My Engineering Journey
-
-My experience has gradually expanded across multiple layers of the technology stack:
-
-```text
-Software Development
-        ↓
-Backend Engineering
-        ↓
-Data Engineering
-        ↓
-Artificial Intelligence
-        ↓
-LLM & RAG Applications
-        ↓
-AI Agents & Automation
-        ↓
-AI Evaluation & Quality
-        ↓
-Machine Learning
-        ↓
-MLOps & Model Serving
-        ↓
-Cloud & CI/CD
-```
-
-This combination allows me to approach AI projects not only from the **model or prompt level**, but also from the perspective of **APIs, data, testing, deployment, reliability, and production engineering**.
+- Developed Python-based backend and data-processing solutions.
+- Built ETL pipelines for ingestion, validation and transformation.
+- Optimised SQL queries and data models.
+- Supported production applications in SLA-driven environments.
+- Worked with Azure-based data and analytics solutions.
 
 ---
 
-# 🔬 Current Focus
+## 🎓 Education
 
-I'm currently exploring and building projects around:
-
-* 🤖 Agentic AI
-* 🔗 Multi-Agent Systems
-* ⚙️ AI Workflow Orchestration
-* 🧠 RAG Systems
-* 📊 LLM Evaluation
-* 🧪 AI Reliability & Testing
-* 🚀 Production AI Engineering
-* 🧩 AI System Design
-* ⚙️ MLOps
-* ☁️ Cloud Deployment
-* 🔄 CI/CD for AI Applications
-
-My goal is to build **reliable, production-oriented AI systems** that combine strong software engineering foundations with machine learning, automation, and intelligent workflows.
+**University of Southampton**  
+MSc Computer Science — Artificial Intelligence & Data Science
 
 ---
 
-# 📚 What I'm Continuing to Learn
+## 🎯 Current Focus
 
-I'm continuing to deepen my knowledge in:
+I'm currently focused on building reliable AI systems across:
 
-* Production MLOps
-* Model monitoring and observability
-* ML model evaluation and drift detection
-* Scalable AI architectures
-* LLM evaluation
-* Agent evaluation
-* AI system reliability
-* Cloud-native AI deployment
-* Kubernetes and container orchestration
-* Advanced RAG architectures
-* AI security and responsible deployment
+`LLM Applications` · `RAG` · `AI Evaluation` · `Agentic AI` · `MLOps` · `Model Serving` · `Cloud` · `CI/CD`
+
+My goal is to build AI systems that are not only intelligent, but also **testable, observable, maintainable and production-ready**.
 
 ---
 
-# 📊 GitHub Portfolio
-
-My repositories cover projects involving:
-
-* AI Agents
-* LLM Applications
-* RAG
-* AI Automation
-* FastAPI
-* Django
-* Machine Learning
-* MLOps
-* Model Serving
-* Docker
-* CI/CD
-* Azure
-* Data Engineering
-* AI Evaluation
-* Software Testing
-
-I'm continuously adding projects that demonstrate not only **what I know**, but also how I apply that knowledge to build complete systems.
-
----
-
-# 🎓 Education
-
-### University of Southampton
-
-**MSc Computer Science — Artificial Intelligence & Data Science**
-
----
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm interested in opportunities involving:
 
-**Software Engineering · Backend Engineering · Applied AI · AI Engineering · MLOps · Cloud Engineering · LLM Applications · AI Automation**
+**Backend Engineering · Applied AI · AI Engineering · MLOps · Cloud Engineering · LLM Applications · AI Automation**
 
-### 💼 LinkedIn
+🔗 **LinkedIn:** [Mahua Mukhopadhyay](https://www.linkedin.com/in/mahua-mukhopadhyay-8a8a061a2/)
 
-[Mahua Mukhopadhyay](https://www.linkedin.com/in/mahua-mukhopadhyay-8a8a061a2/)
-
-### 📫 Email
-
-[mahua7980@gmail.com](mailto:mahua7980@gmail.com)
+📧 **Email:** mahua7980@gmail.com
 
 ---
 
-⭐ **Thanks for visiting my profile!**
-
-I'm always interested in learning, building, and solving interesting engineering problems with AI.
+⭐ Thanks for visiting my profile.
