@@ -22,27 +22,26 @@ Building production-oriented backend systems, RAG applications, AI agents, evalu
 
 ## 🛠️ Technical Stack
 
-Backend Engineering
-Python · FastAPI · Django · REST APIs · SQL
+### Backend Engineering
+`Python` · `FastAPI` · `Django` · `REST APIs` · `SQL`
 
-AI Engineering
-LLMs · RAG · LangChain · AI Agents · Semantic Search
-Embeddings · Vector Search · Tool Calling · AI Evaluation
+### AI Engineering
+`LLMs` · `RAG` · `LangChain` · `AI Agents` · `Semantic Search` · `Embeddings` · `Vector Search` · `Tool Calling` · `AI Evaluation`
 
-ML
-PyTorch · Transformers · XGBoost · LightGBM · NLP
+### Machine Learning
+`PyTorch` · `Transformers` · `XGBoost` · `LightGBM` · `NLP`
 
-MLOps / DevOps
-MLflow · Docker · Kubernetes · GitHub Actions · CI/CD
+### MLOps / DevOps
+`MLflow` · `Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD`
 
-Cloud
-Azure · Bicep
+### Cloud & Infrastructure
+`Azure` · `Bicep`
 
-Data
-PostgreSQL · MySQL · pgvector · ETL
+### Data & Databases
+`PostgreSQL` · `MySQL` · `pgvector` · `ETL`
 
-Frontend
-React · Next.js · TypeScript · JavaScript
+### Frontend
+`React` · `Next.js` · `TypeScript` · `JavaScript`
 
 ---
 
