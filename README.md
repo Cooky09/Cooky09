@@ -4,151 +4,173 @@
 
 I build **backend systems, AI applications, and production-oriented ML infrastructure** with Python.
 
-My work sits at the intersection of **software engineering and AI**, with experience across:
-
-- Backend & REST API development
-- LLM and RAG applications
-- AI agents & workflow automation
-- Machine learning & NLP
-- MLOps & model serving
-- Docker & CI/CD
-- Cloud & data engineering
-- Software & AI quality engineering
-
-🎓 **MSc Computer Science — Artificial Intelligence & Data Science**, University of Southampton  
-💼 **3+ years of professional experience** across software engineering, AI, data, and QA  
-📍 United Kingdom
+My work sits at the intersection of **software engineering, AI engineering, and machine learning**, with hands-on experience building APIs, RAG systems, AI agents, evaluation pipelines, ML services, data pipelines, and containerised applications.
 
 ---
-## 🛠️ Technical Focus
 
-**Languages**  
+## 🧠 What I Build
+
+- **Backend & API Systems** — FastAPI, Django, REST APIs
+- **AI & LLM Applications** — LLMs, RAG, LangChain, AI Agents
+- **Semantic AI** — Embeddings, semantic search, vector search, knowledge retrieval
+- **ML & NLP** — PyTorch, Transformers, XGBoost, LightGBM
+- **AI Evaluation** — RAG evaluation, regression testing, model evaluation, AI/LLM testing
+- **MLOps** — MLflow, model serving, experiment tracking, CI/CD
+- **Distributed Systems** — Kafka, event-driven architectures, transactional workflows
+- **Cloud & Infrastructure** — Docker, Kubernetes, Azure, Bicep
+- **Data Engineering** — PostgreSQL, MySQL, SQL, ETL
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages
 `Python` `JavaScript` `TypeScript` `SQL`
 
-**Backend & APIs**  
-`FastAPI` `Django` `Django REST Framework` `REST APIs` `API Integration`
+### Backend
+`FastAPI` `Django` `Django REST Framework` `REST APIs`
 
-**AI / Machine Learning**  
+### AI / Machine Learning
 `LLMs` `RAG` `LangChain` `PyTorch` `Transformers` `NLP` `XGBoost` `LightGBM`
 
-**AI Engineering**  
-`Prompt Engineering` `Semantic Search` `Embeddings` `Vector Search` `AI Evaluation` `AI Agents` `Tool Calling` `Knowledge Retrieval` `n8n`
+### AI Engineering
+`Semantic Search` `Embeddings` `Vector Search` `AI Evaluation` `AI Agents` `Tool Calling` `Knowledge Retrieval` `Prompt Engineering`
 
-**Frontend Development**  
-`React` `Next.js` `TypeScript` `HTML` `CSS` `Responsive UI` `React Markdown`
+### Frontend
+`React` `Next.js` `TypeScript` `HTML` `CSS`
 
-**Data & Databases**  
-`PostgreSQL` `MySQL` `pgvector` `ETL` `Vector Databases` `SQL`
+### Data & Databases
+`PostgreSQL` `MySQL` `pgvector` `ETL` `SQL` `Vector Databases`
 
-**MLOps & DevOps**  
+### MLOps / DevOps
 `MLflow` `Docker` `Docker Compose` `Kubernetes` `GitHub Actions` `CI/CD`
 
-**Cloud & Infrastructure**  
+### Cloud & Infrastructure
 `Azure` `Bicep` `Containerized Applications` `Local AI Infrastructure`
 
-**Testing & Quality**  
-`Pytest` `Regression Testing` `API Testing` `UAT` `AI/LLM Testing` `Error Handling`
+### Testing & Quality
+`Pytest` `Regression Testing` `API Testing` `UAT` `AI/LLM Testing` `Integration Testing`
 
-**Developer Tools & Practices**  
-`Git` `GitHub` `Modular Architecture` `Environment Configuration` `Documentation` `Debugging`
+### Engineering Practices
+`Git` `GitHub` `Modular Architecture` `Environment Configuration` `API Documentation` `Debugging`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 MLOps Model Serving Platform
+## 🧠 Fraud Risk Engine
 
-**PyTorch · MLflow · FastAPI · Docker · GitHub Actions · Azure**
+**FastAPI · XGBoost · LightGBM · Kafka · PostgreSQL · Redis · MLflow · Docker · Pytest**
 
-End-to-end ML engineering project demonstrating the transition from model training to production-style inference.
+Production-oriented fraud detection platform combining machine learning with backend and distributed-system architecture.
 
-- PyTorch model training and evaluation
-- MLflow experiment tracking and model registry
-- Model versioning and promotion
+- ML-based fraud risk scoring
+- XGBoost and LightGBM modelling
+- Kafka-based event processing
+- FastAPI backend services
+- PostgreSQL data storage
+- Redis integration
+- MLflow experiment tracking
+- Model evaluation and explainability
+- Automated testing
+- Containerised development
+
+🔗 [View Repository](https://github.com/Cooky09/fraud-risk-engine)
+
+---
+
+## 🤖 Ops Context AI
+
+**Next.js · TypeScript · FastAPI · PostgreSQL · pgvector · LangChain · Ollama**
+
+AI operations assistant combining semantic search, RAG and local LLM inference.
+
+- Knowledge-base ingestion
+- Semantic search with vector embeddings
+- PostgreSQL + pgvector retrieval
+- LangChain-based AI pipeline
+- Local LLM inference
+- FastAPI backend
+- Next.js frontend
+- Source-grounded responses
+- Dockerised development
+
+🔗 [View Repository](https://github.com/Cooky09/ops-context-ai)
+
+---
+
+## ⚙️ MLOps Model Serving Platform
+
+**PyTorch · MLflow · FastAPI · Docker · GitHub Actions · Azure · Bicep**
+
+End-to-end ML engineering platform demonstrating the transition from model development to production-style inference.
+
+- Model training and evaluation
+- MLflow experiment tracking
+- Model registry and versioning
 - FastAPI inference service
 - Dockerised model serving
-- Automated testing and CI/CD
+- Automated testing
+- GitHub Actions CI/CD
 - Azure deployment architecture
 - Infrastructure as Code with Bicep
 
+🔗 [View Repository](https://github.com/Cooky09/mlops-model-serving-platform)
+
 ---
 
-### 🔎 RAG Evaluation & Observability Lab
+## 🔎 RAG Evaluation & Observability Lab
 
 **Python · FastAPI · PyTorch · Ollama · Docker · Prometheus · n8n · GitHub Actions**
 
-Local platform for evaluating RAG quality while measuring inference performance and system behaviour.
+Evaluation and observability platform for measuring RAG quality and application behaviour.
 
-- Semantic retrieval and local LLM inference
+- Semantic retrieval
+- Local LLM inference
 - Retrieval and answer-quality evaluation
 - Automated regression gates
-- Batch and precision benchmarking
-- Structured logging and application metrics
-- Prometheus metrics endpoint
+- Batch evaluation
+- Performance benchmarking
+- Structured logging
+- Prometheus metrics
 - n8n evaluation automation
-- Dockerised deployment
-- Automated test suite and GitHub Actions CI
+- Automated testing and CI
+
+🔗 [View Repository](https://github.com/Cooky09/rag-evaluation-observability-lab)
 
 ---
 
-### 🤖 LinkedIn Content Creator AI Agent
+## 📦 Event-Driven Order Platform
 
-**n8n · Ollama · Llama · AI Agents**
+**Python · FastAPI · PostgreSQL · Kafka · Docker · Kubernetes · Helm**
 
-Multi-agent workflow for automated content creation.
+Backend order-processing platform demonstrating transactional database operations and event-driven architecture.
 
-- Topic selection
-- AI content generation
-- Content review and refinement
-- Quality checks
-- Email delivery of publication-ready content
+- Order processing
+- Inventory management
+- PostgreSQL persistence
+- Kafka-oriented event processing
+- Transactional Outbox Pattern
+- Dockerised services
+- Kubernetes deployment
+- Helm packaging
+- Automated API testing
 
----
-
-### 🎧 AI Customer Support Automation
-
-**n8n · Groq · Gmail · Google Sheets**
-
-AI-powered workflow for automating customer-support operations.
-
-- Incoming email monitoring
-- Request classification
-- Priority assignment
-- Response generation
-- Ticket lifecycle tracking
+🔗 [View Repository](https://github.com/Cooky09/event-driven-order-platform)
 
 ---
 
-### 🧠 Medical Text Simplification — MSc Thesis
+## 🧩 Django AI Operations Platform
 
-**BART · T5 · PEGASUS · NLP**
+**Django · Django REST Framework · AI · PostgreSQL**
 
-Research project exploring transformer-based approaches to medical text simplification.
+Backend platform combining Django-based application development with AI-powered operational workflows.
 
-- Text preprocessing
-- Transformer fine-tuning
-- Model evaluation
-- BLEU, METEOR and BERTScore
-- Readability analysis
+🔗 [View Repository](https://github.com/Cooky09/django-ai-operations-platform)
 
 ---
 
-### 📄 LLM-Based CV Analysis System
-
-**FastAPI · OpenAI · LangChain · PostgreSQL**
-
-AI-powered CV analysis and candidate-ranking system.
-
-- CV information extraction
-- Job-description analysis
-- Candidate ranking
-- Semantic similarity
-- Structured AI outputs
-- API-based backend
-
----
-
-## 💼 Experience
+# 💼 Experience
 
 ### Quality Assurance Tester — Bytecenture
 **Aug 2025 – Present**
@@ -188,33 +210,38 @@ AI-powered CV analysis and candidate-ranking system.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**University of Southampton**  
-MSc Computer Science — Artificial Intelligence & Data Science
+### University of Southampton
+
+**MSc Computer Science — Artificial Intelligence & Data Science**
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-I'm currently focused on building reliable AI systems across:
+I'm currently focused on building **reliable AI systems** across:
 
 `LLM Applications` · `RAG` · `AI Evaluation` · `Agentic AI` · `MLOps` · `Model Serving` · `Cloud` · `CI/CD`
 
-My goal is to build AI systems that are not only intelligent, but also **testable, observable, maintainable and production-ready**.
+My goal is to build AI systems that are not only intelligent, but also:
+
+**Testable · Observable · Maintainable · Reproducible · Production-ready**
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 I'm interested in opportunities involving:
 
 **Backend Engineering · Applied AI · AI Engineering · MLOps · Cloud Engineering · LLM Applications · AI Automation**
 
-🔗 **LinkedIn:** [Mahua Mukhopadhyay](https://www.linkedin.com/in/mahua-mukhopadhyay-8a8a061a2/)
+📍 United Kingdom
 
-📧 **Email:** mahua7980@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/)
+
+📧 **mahua7980@gmail.com**
 
 ---
 
-⭐ Thanks for visiting my profile.
+⭐ Thanks for visiting my profile!
