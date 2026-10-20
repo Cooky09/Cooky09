@@ -2,9 +2,7 @@
 
 ### Backend Engineer · Applied AI Engineer · MLOps
 
-I build **backend systems, AI applications, and production-oriented ML infrastructure** with Python.
-
-My work sits at the intersection of **software engineering, AI engineering, and machine learning**, with hands-on experience building APIs, RAG systems, AI agents, evaluation pipelines, ML services, data pipelines, and containerised applications.
+Building production-oriented backend systems, RAG applications, AI agents, evaluation pipelines, and ML infrastructure with Python, FastAPI, Django, PostgreSQL, Docker, Kubernetes, and Azure.
 
 ---
 
