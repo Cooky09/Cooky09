@@ -20,29 +20,37 @@ My work sits at the intersection of **software engineering and AI**, with experi
 📍 United Kingdom
 
 ---
-
 ## 🛠️ Technical Focus
 
 **Languages**  
 `Python` `JavaScript` `TypeScript` `SQL`
 
-**Backend**  
-`FastAPI` `Django` `Django REST Framework` `REST APIs`
+**Backend & APIs**  
+`FastAPI` `Django` `Django REST Framework` `REST APIs` `API Integration`
 
-**AI / ML**  
+**AI / Machine Learning**  
 `LLMs` `RAG` `LangChain` `PyTorch` `Transformers` `NLP` `XGBoost` `LightGBM`
 
 **AI Engineering**  
-`Prompt Engineering` `Semantic Search` `AI Evaluation` `AI Agents` `Tool Calling` `n8n`
+`Prompt Engineering` `Semantic Search` `Embeddings` `Vector Search` `AI Evaluation` `AI Agents` `Tool Calling` `Knowledge Retrieval` `n8n`
 
-**MLOps / DevOps**  
-`MLflow` `Docker` `Docker Compose` `GitHub Actions` `CI/CD`
+**Frontend Development**  
+`React` `Next.js` `TypeScript` `HTML` `CSS` `Responsive UI` `React Markdown`
 
-**Cloud / Data**  
-`Azure` `Bicep` `PostgreSQL` `MySQL` `ETL`
+**Data & Databases**  
+`PostgreSQL` `MySQL` `pgvector` `ETL` `Vector Databases` `SQL`
+
+**MLOps & DevOps**  
+`MLflow` `Docker` `Docker Compose` `Kubernetes` `GitHub Actions` `CI/CD`
+
+**Cloud & Infrastructure**  
+`Azure` `Bicep` `Containerized Applications` `Local AI Infrastructure`
 
 **Testing & Quality**  
-`Pytest` `Regression Testing` `API Testing` `UAT` `AI/LLM Testing`
+`Pytest` `Regression Testing` `API Testing` `UAT` `AI/LLM Testing` `Error Handling`
+
+**Developer Tools & Practices**  
+`Git` `GitHub` `Modular Architecture` `Environment Configuration` `Documentation` `Debugging`
 
 ---
 
