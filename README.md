@@ -22,35 +22,27 @@ Building production-oriented backend systems, RAG applications, AI agents, evalu
 
 ## 🛠️ Technical Stack
 
-### Languages
-`Python` `JavaScript` `TypeScript` `SQL`
+Backend Engineering
+Python · FastAPI · Django · REST APIs · SQL
 
-### Backend
-`FastAPI` `Django` `Django REST Framework` `REST APIs`
+AI Engineering
+LLMs · RAG · LangChain · AI Agents · Semantic Search
+Embeddings · Vector Search · Tool Calling · AI Evaluation
 
-### AI / Machine Learning
-`LLMs` `RAG` `LangChain` `PyTorch` `Transformers` `NLP` `XGBoost` `LightGBM`
+ML
+PyTorch · Transformers · XGBoost · LightGBM · NLP
 
-### AI Engineering
-`Semantic Search` `Embeddings` `Vector Search` `AI Evaluation` `AI Agents` `Tool Calling` `Knowledge Retrieval` `Prompt Engineering`
+MLOps / DevOps
+MLflow · Docker · Kubernetes · GitHub Actions · CI/CD
 
-### Frontend
-`React` `Next.js` `TypeScript` `HTML` `CSS`
+Cloud
+Azure · Bicep
 
-### Data & Databases
-`PostgreSQL` `MySQL` `pgvector` `ETL` `SQL` `Vector Databases`
+Data
+PostgreSQL · MySQL · pgvector · ETL
 
-### MLOps / DevOps
-`MLflow` `Docker` `Docker Compose` `Kubernetes` `GitHub Actions` `CI/CD`
-
-### Cloud & Infrastructure
-`Azure` `Bicep` `Containerized Applications` `Local AI Infrastructure`
-
-### Testing & Quality
-`Pytest` `Regression Testing` `API Testing` `UAT` `AI/LLM Testing` `Integration Testing`
-
-### Engineering Practices
-`Git` `GitHub` `Modular Architecture` `Environment Configuration` `API Documentation` `Debugging`
+Frontend
+React · Next.js · TypeScript · JavaScript
 
 ---
 
